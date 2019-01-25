@@ -1,0 +1,26 @@
+{
+  "name": "dragupload",
+  "version": "1.0.1",
+  "description": "文件拖拽上传 vue组件",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "no test cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyufeng96/dragupload.git"
+  },
+  "keywords": [
+    "vue",
+    "upload"
+  ],
+  "author": "yangyufeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyufeng96/dragupload/issues"
+  },
+  "homepage": "https://github.com/yangyufeng96/dragupload#readme"
+}
